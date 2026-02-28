@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there👋 
 
-<!--
-**yeab-tatek/yeab-tatek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱I'm Yeabsira a Computer Science student currently architecting the bridge between dynamic user interfaces and data-driven insights.
+My journey involves building scalable web applications while exploring the intersection of software engineering and Ai engineering.
 
-Here are some ideas to get you started:
+🛠️ The Tech Stack I'm Scaling
+- Frontend Core: Constructing responsive experiences with the modern JavaScript ecosystem.
+- Frameworks: Leveraging Next.js and React for optimized, server-side rendered performance.
+- Foundations: Deep-diving into the fundamental building blocks of the web (HTML5/CSS3).
+- Data Science: Applying CS principles to extract value from complex datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Focus
+- 🏗️ Building full-stack projects that solve real-world problems.
+- 🧪 Refining my analytical skills for a future in Data Science.
+- 🎓 Exploring advanced algorithms and system design.
+
+Fun fact:
+
+-I have two dogs
+-I don't like coffee
+-Hobbies: Drawing, writing poetry, listening to music, and reading.
+
+Turning caffeine into code and raw data into decisions.
