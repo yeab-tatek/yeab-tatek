@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="yeab-tatek's GitHub profile" src="dark_mode.svg" />
+</picture>
 Hi there👋 
 
 🌱I'm Yeabsira a Computer Science student currently architecting the bridge between dynamic user interfaces and data-driven insights.
