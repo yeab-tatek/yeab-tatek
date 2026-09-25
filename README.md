@@ -5,7 +5,8 @@
 </picture>
 Hi there👋 
 
-🌱I'm Yeabsira a Computer Science student currently architecting the bridge between dynamic user interfaces and data-driven insights.
+🌱Computer Science student and backend-focused developer building web applications with ASP.NET Core, C#, SQL, and modern frontend technologies.
+🚀 Currently strengthening my software engineering skills while exploring AI/ML and data-driven applications.
 My journey involves building scalable web applications while exploring the intersection of software engineering and Ai engineering.
 
 🛠️ The Tech Stack I'm Scaling
