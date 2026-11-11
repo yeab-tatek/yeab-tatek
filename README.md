@@ -2,14 +2,16 @@
 
 I'm **Yeabsira Tatek**, a Computer Science student and backend-focused developer from Ethiopia.
 
-I currently focus on building web applications using **C# and ASP.NET Core**, working with databases and exploring modern software development practices. I'm also expanding my knowledge of Artificial Intelligence, Machine Learning, and Data Science.
+💻 I enjoy building web applications using **C#, ASP.NET Core, and SQL**, while exploring modern frontend technologies and software engineering practices.
 
-I'm fascinated by how technology can solve real-world problems. I enjoy understanding how software systems work, developing practical solutions, and exploring the intersection of software engineering and AI.
+🚀 I'm currently strengthening my software engineering skills while exploring **Artificial Intelligence, Machine Learning, and Data Science**.
 
-Outside of technology, I enjoy drawing, writing poetry, listening to music, and reading. I also have two dogs and, fun fact, I'm not a coffee person!
+🧠 I'm fascinated by problem-solving, software architecture, and how technology can transform ideas into practical solutions. My long-term goal is to explore the intersection of software engineering and AI engineering.
 
-### Let's connect!
+🎨 Outside of technology, I enjoy drawing, writing poetry, listening to music, and reading. I also have two dogs, and fun fact: I'm not a coffee person!
+
+### 🤝 Let's connect!
 
 <a href="https://linkedin.com/in/yeabsiratatek">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
